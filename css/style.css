@@ -1,0 +1,14 @@
+.main-nav ul  {
+    list-style: none;
+    display: block;
+    background: grey;
+    
+}
+
+.main-nav ul li {
+    text-align: center;
+}
+.main-nav ul li a{
+    text-decoration: none;
+    color: #000;
+}
