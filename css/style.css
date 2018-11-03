@@ -1,3 +1,32 @@
+.main-nav ul {
+    list-style-type: none;
+    background: grey; 
+    margin: 0;
+    padding: 0; 
+ 
+    overflow: hidden;
+}
+
+
+.main-nav ul li{
+float: left;
+    
+    
+    
+}
+.main-nav ul li a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px; 
+    color: black;
+    font-weight: 600; 
+  
+    
+    
+}
+
+
 
 
 footer{
@@ -5,14 +34,18 @@ footer{
     position: absolute;
 }
 
-.footer-menu submenu ul{
-    list-style: none; 
+.submenu ul{
+    list-style-type: none;
     margin: 0; 
     padding: 0; 
     overflow: hidden; 
     border-color: grey;
     
     
+}
+
+.submneu ul li a {
+background: grey; 
 }
 
 
