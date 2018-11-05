@@ -31,6 +31,19 @@ a {
     background: lightGrey;
     color:cadetblue;
     text-decoration:  none;
+    font-size: 40px;
+    width: 450px; 
+    padding: 2px; 
+ 
+    
+}
 
+ ul li a{
+    width: 100%;
+}
+
+
+h2 {
+    font-size: 40px; 
     
 }
