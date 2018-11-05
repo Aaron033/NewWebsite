@@ -8,7 +8,8 @@ section{
     background: url("../images/webProgramming.jpgs");
     
     background-size: cover;
-    background-attachment: fixed; 
+    background-attachment: fixed;
+    
     text-align: center; 
     font-weight: 600; 
     font-family: sans-serif; 
@@ -18,4 +19,18 @@ section{
     padding: 120px;
    
         
+}
+
+a {
+    align-content: center;
+}
+
+#contactUs {
+    display: block;
+    border: 2px solid lightGrey;
+    background: lightGrey;
+    color:cadetblue;
+    text-decoration:  none;
+
+    
 }
