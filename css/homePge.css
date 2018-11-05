@@ -51,6 +51,15 @@ h2 {
     
 }
 
+
+h3{
+    padding: 10px; 
+    font-size: 40px;
+    color:aliceblue; 
+    font-weight: 600;
+    text-align: center;
+    
+}
 .final{
     background: url("../images/Very%20Blue.jpg");
 }
