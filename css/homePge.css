@@ -21,9 +21,7 @@ section{
         
 }
 
-a {
-    align-content: center;
-}
+
 
 #contactUs {
     display: block;
@@ -76,3 +74,6 @@ img{
     float: left;
 }
 
+.c {
+    list-style: none;
+}
