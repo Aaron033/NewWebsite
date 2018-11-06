@@ -11,9 +11,9 @@ nav{
 
    font-family: 'Bitter', serif;
     width: 100%; 
-    height: 70px; 
-    background: rgba(0,0,0,0.6);
-    border-bottom: 3px solid #ccc; 
+    height: 100px; 
+    background:url(../images/Nimvelo.jpg);
+    
     
     
 }
@@ -46,10 +46,12 @@ nav ul li a{
 
 footer{
     bottom: 0;
-    position: absolute;
+    
+    position: relative;
     width: 100%;
     height: 70px; 
-    background: rgba(0,0,0,0.6);  
+   background:url(../images/Nimvelo.jpg); 
+    height: 100px; 
 }
 
 .submenu ul{
