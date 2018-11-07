@@ -6,9 +6,9 @@ section{
 
 .section1 {
     background: url("../images/webProgramming.jpgs");
-    
+    background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;
+   
     
     text-align: center; 
     font-weight: 600; 
@@ -68,6 +68,8 @@ h3{
 }
 .final{
     background: url("../images/Very%20Blue.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 img{
