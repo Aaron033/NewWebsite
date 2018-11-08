@@ -43,16 +43,20 @@ h1{
 
 
 h2 {
+    padding-top: 200px;
+    padding-left: 30px;
     font-family: 'Bitter', serif;
-
+     text-align: left;
     font-size: 40px; 
     
 }
 
 .para {
     font-family: 'Bitter', serif;
-
+    padding-left: 25px; 
     font-size: 20px;
+    width: 60%;
+    color: gray;
     
 }
 
@@ -83,4 +87,8 @@ h3{
     top: 10px; 
     left: 20px; 
     width: 65%;
+}
+.pa{
+    margin: 0; 
+    padding: 0;
 }
