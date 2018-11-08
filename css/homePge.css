@@ -72,25 +72,3 @@ h3{
     background-size: cover;
 }
 
-img{
-    float: left;
-}
-
-.c {
-    list-style: none;
-}
-
-.couple1{
-    float: left; 
-    
-}
-.couple2{
-    float: center;
-    
-    padding-left:  30px;
-    
-}
-
-.couple3{
-    float: right;
-}
