@@ -72,3 +72,15 @@ h3{
     background-size: cover;
 }
 
+.container{
+    position: relative; 
+    text-align: center; 
+    color: black; 
+}
+
+.left{
+    position: absolute; 
+    top: 10px; 
+    left: 20px; 
+    width: 65%;
+}
