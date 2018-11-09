@@ -40,6 +40,7 @@ li{
 a{
     color: #fff; 
     text-decoration: none; 
+    font-size: 22px;
     font-weight: bold; 
 }
 
@@ -55,6 +56,21 @@ a:hover{
 }
 
 #menu-icon{
+    background: url("../images/hamburger.png"); 
+    display: hidden; 
+    width: 32px; 
+    height: 32px; 
+}
+
+@media only screen and (max-width: 640px){
+    header{
+        position: absolute; 
+    }
+    
+    #menu-icon{
+        display: inline-block; 
+    }
+    
     
 }
 
