@@ -2,7 +2,7 @@
 header{
    background:url(../images/Between%20Night%20and%20Day.jpg);
     width:100%; 
-    height: 76px; 
+    height: 100px; 
     position: fixed; 
     top:0; 
     left: 0; 
@@ -50,8 +50,8 @@ a:hover{
     margin: 20px; 
     float: left; 
     width:200px; 
-    height: 50px; 
-    
+    height: 70px; 
+    background: url("../images/icons8-cloud-100.png") no-repeat center;
 }
 
 #menu-icon{
