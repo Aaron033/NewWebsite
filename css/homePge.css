@@ -52,17 +52,20 @@ h2 {
     padding-left: 30px;
     font-family: 'Bitter', serif;
      text-align: left;
-    font-size: 40px; 
+    font-size: 49px; 
     
 }
 
 .para {
     font-family: 'Bitter', serif;
+    padding-top: 25px;
     padding-left: 25px; 
     font-size: 20px;
     width: 60%;
     color: gray;
-    
+
+    width: 95%;
+    text-align: left;
 }
 
 
