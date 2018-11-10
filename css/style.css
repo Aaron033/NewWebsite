@@ -71,7 +71,16 @@ a:hover{
         display: inline-block; 
     }
     
-    
+    nav ul, nav:active ul {
+        display: none; 
+        position: absolute; 
+        padding: 20px; 
+        background: grey; 
+        right: 10px; 
+        top: 65px; 
+        width: 35%; 
+        
+    }
 }
 
 footer{
