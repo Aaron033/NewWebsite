@@ -1,6 +1,7 @@
 
 header{
-   background:url(../images/Between%20Night%20and%20Day.jpg);
+   background:url(../images/Between%20Night%20and%20Day.jpg) no-repeat;
+    background-size: cover;
     width:100%; 
     height: 100px; 
     position: fixed; 

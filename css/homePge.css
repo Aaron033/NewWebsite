@@ -114,5 +114,7 @@ h3{
 }
 
 .c{
+   width: 100%; 
+
     align-content: center;
 }
