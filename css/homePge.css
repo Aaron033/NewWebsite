@@ -11,7 +11,7 @@ section{
 
 .section1 {
     background: url("../images/webProgramming.jpgs");
-    background-repeat: no-repeat;
+   
     background-size: cover;
    
     
@@ -26,20 +26,22 @@ section{
         
 }
 
-.mt{
-     transform: translateX(50%);
+.mt{ 
+    align-content: center;
+   
 }
 
 
 
 #contactUs {
     display: block;
+    align-content: center;
     border: 2px solid lightGrey;
     background: lightGrey;
     color:cadetblue;
     text-decoration:  none;
     font-size: 40px;
-    width: 450px; 
+    width: 290px; 
     padding: 2px; 
  
     
