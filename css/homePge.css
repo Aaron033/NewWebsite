@@ -110,11 +110,11 @@ h3{
 
 .con {
     display: block; 
-   transform: translateX(50%);
+   align-content: center;
 }
 
 .c{
    width: 100%; 
-
-    align-content: center;
+     align-content: center;
+   
 }
