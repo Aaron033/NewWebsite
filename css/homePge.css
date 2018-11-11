@@ -26,6 +26,10 @@ section{
         
 }
 
+.mt{
+     transform: translateX(50%);
+}
+
 
 
 #contactUs {
@@ -104,6 +108,7 @@ h3{
 
 .con {
     display: block; 
+   transform: translateX(50%);
 }
 
 .c{
