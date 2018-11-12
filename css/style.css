@@ -110,4 +110,16 @@ footer ul{
     float: left; 
     padding: 0; 
     list-style: none; 
+    color: #eee; 
+    width: 23%; 
+    margin-right: 2%; 
+}
+
+footer li{
+    margin: 10px 0;
+}
+
+footer a {
+    color: #eee; 
+    text-decoration: none;
 }
