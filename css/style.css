@@ -127,6 +127,9 @@ footer{
     color: aliceblue; 
     text-transform: uppercase;
     font-weight: 400; 
+     font-weight: bold; 
+    font-size: 22px; 
+    font-family: sans-serif;
     
 }
 
