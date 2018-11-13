@@ -13,8 +13,6 @@ section{
 }
 
 .section1 {
-   
-    background: url("../images/webProgramming.jpgs");
     font-family: 'Oswald', sans-serif; 
     text-transform: uppercase; 
      padding: 120px;
@@ -23,6 +21,12 @@ section{
     font-size: 60px; 
     padding: 120px;
 }
+
+.sectionImage{
+    
+}
+
+
 
 
 
