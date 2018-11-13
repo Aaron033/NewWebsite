@@ -15,9 +15,7 @@ section{
 .section1 {
    
     background: url("../images/webProgramming.jpgs");
-    background-size: cover;
-
-    font-family: sans-serif; 
+    font-family: 'Oswald', sans-serif; 
     text-transform: uppercase; 
      padding: 120px;
      color: white; 
