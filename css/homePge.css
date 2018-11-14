@@ -35,9 +35,14 @@ section{
 
 
 .mt{ 
-  
-    display: ;
-   
+  display:relative; 
+   align-content: center; 
+    
+}
+
+img{
+    display: flex; 
+    
 }
 
 .containerr{
