@@ -25,7 +25,7 @@ section{
 }
 
 .sectionImage{
- align-items: center; 
+
     
     
 }
@@ -36,9 +36,7 @@ section{
 
 .mt{ 
   
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: ;
    
 }
 
