@@ -92,10 +92,11 @@ nav a:hover{
 
 
 footer{
+
     position: absolute;
     width:100%; 
     background: #3b3b3b;
-    margin-top: 100px; 
+
     padding: 30px 0;     
 }
 footer:after{

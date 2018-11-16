@@ -1,7 +1,6 @@
 body{
     padding: 0; 
     margin: 0;
-    background: grey;
 }
 
 
@@ -117,8 +116,9 @@ h3{
     background-size: cover;
 }
 
-.final ul{
-    display: inline-block;
+.final ul li{
+    padding-left: 10px;
+  display: inline;
 }
 
 
