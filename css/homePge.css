@@ -22,6 +22,7 @@ section{
     font-weight: 600; 
     font-size: 60px; 
     padding: 120px;
+    position: relative;
 }
 
 .sectionImage{
@@ -34,8 +35,7 @@ section{
 
 
 
-.mt{ 
-  display:relative; 
+.m{
    align-content: center; 
     
 }
