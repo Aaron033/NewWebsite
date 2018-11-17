@@ -18,6 +18,12 @@ body{
     position: relative;
 }
 
+.section2{
+    background: white; 
+    display: relative; 
+    
+}
+
 .sectionImage{
 position: absolute;
     top:0; 
