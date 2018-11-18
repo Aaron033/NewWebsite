@@ -106,7 +106,7 @@ h2 {
 
 
 h3{
-    font-family: 'Bitter', serif;
+   font-family: 'Oswald', sans-serif;
     padding: 10px; 
     font-size: 60px;
     color:aliceblue; 
@@ -144,11 +144,17 @@ h3{
     margin: 0 auto; 
     text-align: center;
 }
+
+
 .im{
     padding: 20px 20px 20px 20px ; 
     display: inline-block; 
 }
 
-
+.tit{
+    font-size: 30px; 
+    color:white; 
+    font-family: 'Oswald', sans-serif;
+}
 
 
