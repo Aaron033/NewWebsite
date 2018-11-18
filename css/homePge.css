@@ -20,8 +20,9 @@ body{
 
 .section2{
     
-
-    position: absolute; 
+    padding-left: 10px; 
+    background: #fff;
+    position: relative; 
     top: 0; 
     bottom: 0; 
     left:0; 
@@ -126,9 +127,10 @@ h3{
     background-size: cover;
 }
 
-.final ul li{
-    padding-left: 10px;
-  display: inline;
+
+.final ul {
+   list-style: none; 
+    width: 33.3%;
 }
 
 
