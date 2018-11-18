@@ -137,9 +137,9 @@ h3{
 .finalimag ul li{
     padding: 10px ;
     width: 200px;
-    
-    display: inline-block;
- 
+}
+.im{
+    display: inline-block; 
 }
 
 
