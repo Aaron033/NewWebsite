@@ -21,7 +21,7 @@ body{
 .section2{
     
     background: white; 
-    display: relative; 
+    display: absolute; 
     top: 0; 
     bottom: 0; 
     left:0; 
@@ -114,7 +114,7 @@ h3{
     
 }
 .final{
-    position: relative;
+    position: ;
     top:0; 
     bottom: 0;
     width: 100%;
