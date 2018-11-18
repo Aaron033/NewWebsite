@@ -119,11 +119,13 @@ footer ul{
 }
 
 footer li{
+    font-family: 'Oswald', sans-serif;
     padding-left: 10px; 
     margin: 10px 0;
 }
 
 footer a {
+    font-family: 'Oswald', sans-serif;
     color: #eee; 
     text-decoration: none;
 }
