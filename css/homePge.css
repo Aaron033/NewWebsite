@@ -12,6 +12,10 @@ body {
     text-transform: uppercase;
     color: white;
     position: relative;
+    background-image:url(../images/webProgramming.jpgs);
+        background-repeat:no-repeat; 
+    background-position: center;
+    background-size: cover;
 }
 
 .til {
@@ -62,16 +66,7 @@ body {
 
 }
 
-.sectionImage {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    opacity: .88;
-    z-index: -1;
 
-}
 
 
 img {
