@@ -24,11 +24,17 @@ body{
 }
 
 .containerr{
-    position: absolute;
-    background: lightBlue;
-    width: auto;
+ text-align: center;
+   
+    
 }
 
+.cont{
+    padding:5px 10px ; 
+    font-size: 40px;
+     background: lightBlue;
+    text-decoration: none;
+}
 .section2{
     position: relative;
     font-family: 'Oswald', sans-serif;
