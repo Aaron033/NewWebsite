@@ -1,88 +1,89 @@
-body{
-    padding: 0; 
+body {
+    padding: 0;
     margin: 0;
 }
 
 
 .section1 {
-    margin: 0 0; 
+    margin: 0 0;
     font-family: 'Oswald', sans-serif;
-    width:100%; 
-    height: 100%; 
-    text-transform: uppercase; 
-    color: white; 
+    width: 100%;
+    height: 100%;
+    text-transform: uppercase;
+    color: white;
     position: relative;
 }
 
-.til{
+.til {
     padding-top: 40px;
-    font-weight: 500; 
-    font-size: 60px; 
+    font-weight: 500;
+    font-size: 60px;
     text-align: center;
     letter-spacing: 5px;
-    text-shadow: 8px 8px black; 
-   
+    text-shadow: 8px 8px black;
+
 }
 
 
 
-.containerr{
- text-align: center;
+.containerr {
+    text-align: center;
 
-   
-    
+
+
 }
 
-.cont{
-    padding:5px 10px ; 
+.cont {
+    padding: 5px 10px;
     font-size: 40px;
     font-weight: 600;
-     background: lightBlue;
+    background: lightBlue;
     text-decoration: none;
-    border-radius: 6px ;
+    border-radius: 6px;
     font-family: 'Oswald', sans-serif;
-    color:royalblue;
+    color: royalblue;
 }
 
-.cont:hover{
+.cont:hover {
     background: red;
-    color:floralwhite;
+    color: floralwhite;
 }
-.section2{
- 
+
+.section2 {
+
     position: relative;
     font-family: 'Oswald', sans-serif;
-    padding-left: 10px; 
+    padding-left: 10px;
     background: #fff;
-    top: 0; 
-    bottom: 0; 
-    left:0; 
-    right:0; 
-    
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
 }
 
-.sectionImage{
+.sectionImage {
     position: absolute;
-    top:0; 
-    bottom: 0; 
+    top: 0;
+    bottom: 0;
     left: 0;
-    width: 100%; 
+    width: 100%;
     opacity: .88;
     z-index: -1;
 
 }
 
 
-img{
-    display: flex; 
-    border-radius: 8px; 
-    
+img {
+    display: flex;
+    border-radius: 8px;
+
 }
 
 
 
-h1{
-   font-family: 'Oswald', sans-serif;
+h1 {
+    font-family: 'Oswald', sans-serif;
 
 }
 
@@ -91,19 +92,19 @@ h2 {
     font-family: 'Oswald', sans-serif;
     padding-top: 200px;
     padding-left: 30px;
-     text-align: left;
-    font-size: 49px; 
-    
+    text-align: left;
+    font-size: 49px;
+
 }
 
-h3{
-   font-family: 'Oswald', sans-serif;
-    padding: 10px; 
+h3 {
+    font-family: 'Oswald', sans-serif;
+    padding: 10px;
     font-size: 60px;
-    color:aliceblue; 
+    color: aliceblue;
     font-weight: 600;
     text-align: center;
-    
+
 }
 
 
@@ -111,13 +112,13 @@ h3{
 
 /* .final code begings  */
 
-.final{
+.final {
     position: relative;
-    top:0; 
+    top: 0;
     bottom: 0;
     width: 100%;
     height: 100%;
-    margin-top:0;
+    margin-top: 0;
     margin-bottom: 0;
     background: url("../images/Very%20Blue.jpg");
     background-repeat: no-repeat;
@@ -126,37 +127,40 @@ h3{
 
 
 .final ul {
-   list-style: none; 
+    list-style: none;
     width: 33.3%;
 }
 
 
-.finalimag ul li{
-    padding: 10px ;
+.finalimag ul li {
+    padding: 10px;
     width: 200px;
 }
 
-.finalimag{
-    width: 80%; 
-    margin: 0 auto; 
+.finalimag {
+    width: 80%;
+    margin: 0 auto;
     text-align: center;
 }
 
 
-.im{
-    padding: 20px 20px 20px 20px ; 
-    display: inline-block; 
+.im {
+    padding: 20px 20px 20px 20px;
+    display: inline-block;
 }
 
-.tit{
-    font-size: 30px; 
-    color:white; 
+.tit {
+    font-size: 30px;
+    color: white;
     font-family: 'Oswald', sans-serif;
 }
 
-.tit:hover{
-    text-shadow: 5px 5px 20px black; 
+.tit:hover {
+    text-shadow: 5px 5px 20px black, 0 0 25px lightgrey, 0 0 5px lightblue;
 }
 
-
-
+.couple1{
+    text-align: center;
+    box-shadow: 2px 2px 5px #000;
+    
+}
