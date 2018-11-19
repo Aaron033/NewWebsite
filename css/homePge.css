@@ -33,12 +33,14 @@ body {
 .containerr {
     text-align: center;
 
+    padding-bottom: 10px;
+
 
 
 }
 
 .cont {
-    padding: 5px 10px;
+   
     font-size: 40px;
     font-weight: 600;
     background: lightBlue;
@@ -46,6 +48,7 @@ body {
     border-radius: 6px;
     font-family: 'Oswald', sans-serif;
     color: royalblue;
+
 }
 
 .cont:hover {
