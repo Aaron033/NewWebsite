@@ -10,21 +10,23 @@ body{
     width:100%; 
     height: 100%; 
     text-transform: uppercase; 
-    
     color: white; 
-  
-
     position: relative;
 }
 
 .til{
+    padding-top: 40px;
     font-weight: 500; 
     font-size: 60px; 
     text-align: center;
+   
 }
+
+
 
 .containerr{
  text-align: center;
+
    
     
 }
@@ -32,8 +34,17 @@ body{
 .cont{
     padding:5px 10px ; 
     font-size: 40px;
+    font-weight: 600;
      background: lightBlue;
     text-decoration: none;
+    border-radius: 6px ;
+    font-family: 'Oswald', sans-serif;
+    color:royalblue;
+}
+
+.cont:hover{
+    background: red;
+    color:floralwhite;
 }
 .section2{
     position: relative;
@@ -48,19 +59,20 @@ body{
 }
 
 .sectionImage{
-position: absolute;
+    position: absolute;
     top:0; 
     bottom: 0; 
     left: 0;
     width: 100%; 
-   
     opacity: .75;
     z-index: -1;
+
 }
 
 
 img{
     display: flex; 
+    border-radius: 8px; 
     
 }
 

@@ -40,8 +40,15 @@ nav a{
 }
 
 nav a:hover{
-    text-decoration: underline; 
+    
+    background:#3b3b3b;
+    color:white;
+    padding: 10px 10px;
+   
 }
+
+
+
 #logo {
     margin: 20px; 
     float: left; 
