@@ -4,8 +4,8 @@ body{
 }
 
 
-
 .section1 {
+    margin: 0 0; 
     font-family: 'Oswald', sans-serif;
     width:100%; 
     height: 100%; 
@@ -19,6 +19,8 @@ body{
     font-weight: 500; 
     font-size: 60px; 
     text-align: center;
+    letter-spacing: 5px;
+    text-shadow: 8px 8px black; 
    
 }
 
@@ -47,6 +49,7 @@ body{
     color:floralwhite;
 }
 .section2{
+ 
     position: relative;
     font-family: 'Oswald', sans-serif;
     padding-left: 10px; 
@@ -64,7 +67,7 @@ body{
     bottom: 0; 
     left: 0;
     width: 100%; 
-    opacity: .75;
+    opacity: .88;
     z-index: -1;
 
 }
@@ -150,5 +153,10 @@ h3{
     color:white; 
     font-family: 'Oswald', sans-serif;
 }
+
+.tit:hover{
+    text-shadow: 5px 5px 20px black; 
+}
+
 
 
