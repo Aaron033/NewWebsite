@@ -15,9 +15,17 @@ article{
     width: 100%; 
     height: 100%;
     
-    background: grey;
+
 }
 footer{
     bottom: 0;
 }
 
+.art{
+
+    background-image: url(../images/compu.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+ 
+}
