@@ -41,10 +41,6 @@ position: absolute;
     z-index: -1;
 }
 
-.m{
-   align-content: center; 
-    
-}
 
 img{
     display: flex; 
@@ -62,21 +58,6 @@ img{
 }
 
 
-
-#contactUs {
-    display: block;
-    align-content: center;
-    border: 2px solid lightGrey;
-    background: lightGrey;
-    color:cadetblue;
-    text-decoration:  none;
-    font-size: 40px;
-    width: 290px; 
-    padding: 2px; 
- 
-    
-}
-
 h1{
    font-family: 'Oswald', sans-serif;
 
@@ -92,19 +73,6 @@ h2 {
     
 }
 
-.para {
-    font-family: 'Bitter', serif;
-    padding-top: 25px;
-    padding-left: 25px; 
-    font-size: 20px;
-    width: 50%;
-    color: gray;
-
-    width: 95%;
-    text-align: left;
-}
-
-
 h3{
    font-family: 'Oswald', sans-serif;
     padding: 10px; 
@@ -114,6 +82,12 @@ h3{
     text-align: center;
     
 }
+
+
+
+
+/* .final code begings  */
+
 .final{
     position: relative;
     top:0; 
