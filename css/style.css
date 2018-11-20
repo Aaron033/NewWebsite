@@ -13,7 +13,7 @@ header {
 nav {
 
     float: right;
-    padding: 20px;
+
     font-family: sans-serif;
 
 }
@@ -70,13 +70,15 @@ nav a:hover {
 
     header {
 
-        position: absolute;
+        position: relative;
     }
 
     #menu-icon {
         display: inline-block;
     }
-
+    nav{
+        padding: 20px;
+    }
     nav ul,
     nav:active ul {
         display: none;
