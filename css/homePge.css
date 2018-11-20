@@ -19,6 +19,7 @@ body {
 }
 
 .til {
+    position: relative;
     padding-top: 40px;
     font-weight: 500;
     font-size: 60px;
@@ -31,16 +32,14 @@ body {
 
 
 .containerr {
-    text-align: center;
-
-    padding-bottom: 10px;
-
-
+    position: relative;
+  right: 50%; 
+   left: 50%; 
 
 }
 
 .cont {
-   
+   padding: 5px 10px;
     font-size: 40px;
     font-weight: 600;
     background: lightBlue;
@@ -57,19 +56,20 @@ body {
 }
 
 .section2 {
-
-    position: relative;
-    font-family: 'Oswald', sans-serif;
-    padding-left: 10px;
-    background: #fff;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-
+  background-image:url(../images/computer.jpg);
+     background-repeat:no-repeat; 
+    background-size: cover;
 }
 
-
+.top{
+    font-family: 'Oswald', sans-serif;
+    top:0; 
+    bottom: 0; 
+    
+    column-count: 2; 
+    column-gap: 40px; 
+    column-rule: solid; 
+}
 
 
 img {
