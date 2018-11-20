@@ -12,8 +12,8 @@ body {
     text-transform: uppercase;
     color: white;
     position: relative;
-    background-image:url(../images/webProgramming.jpgs);
-        background-repeat:no-repeat; 
+    background-image: url(../images/webProgramming.jpgs);
+    background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -33,19 +33,18 @@ body {
 
 .containerr {
     position: relative;
-  right: 50%; 
-   left: 50%; 
+
+    left: 50%;
 
 }
 
 .cont {
-   padding: 5px 10px;
+    padding: 5px 10px;
     font-size: 40px;
     font-weight: 600;
     background: lightBlue;
     text-decoration: none;
     border-radius: 6px;
-    font-family: 'Oswald', sans-serif;
     color: royalblue;
 
 }
@@ -56,19 +55,15 @@ body {
 }
 
 .section2 {
-  background-image:url(../images/computer.jpg);
-     background-repeat:no-repeat; 
+    background-image: url(../images/computer.jpg);
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
-.top{
+.to {
     font-family: 'Oswald', sans-serif;
-    top:0; 
-    bottom: 0; 
-    
-    column-count: 2; 
-    column-gap: 40px; 
-    column-rule: solid; 
+    margin: 0 0;
+
 }
 
 
@@ -81,6 +76,7 @@ img {
 
 
 h1 {
+    margin: 0 0;
     font-family: 'Oswald', sans-serif;
 
 }
@@ -96,11 +92,13 @@ h2 {
 }
 
 h3 {
+    padding: 0 0;
+    margin: 0 0;
     font-family: 'Oswald', sans-serif;
-    padding: 10px;
+
     font-size: 60px;
     color: aliceblue;
-    font-weight: 600;
+
     text-align: center;
 
 }
@@ -157,8 +155,8 @@ h3 {
     text-shadow: 5px 5px 20px black, 0 0 25px lightgrey, 0 0 5px lightblue;
 }
 
-.couple1{
+.couple1 {
     text-align: center;
     box-shadow: 2px 2px 5px #000;
-    
+
 }
